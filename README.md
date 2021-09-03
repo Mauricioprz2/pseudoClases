@@ -1,0 +1,2 @@
+# pseudoClases
+Practica de pseudoClases
